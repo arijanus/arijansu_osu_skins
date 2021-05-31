@@ -1,2 +1,2 @@
-# arijansu skins
+# arijansu osu!skins
 
