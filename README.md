@@ -13,5 +13,5 @@
 ![screenshot114](https://user-images.githubusercontent.com/84270330/120231403-0617cb80-c25a-11eb-9569-76172d18b4a5.jpg)
 ## [**- arijansu v4.1.1 dthd**](https://github.com/arijanus/arijansu_osu_skins/raw/main/-%20arijansu%20v4.1.1%20%2BDTHD.osk)
 ![screenshot115](https://user-images.githubusercontent.com/84270330/120231497-319ab600-c25a-11eb-9774-6c1180f59edf.jpg)
-## [**- arijansu v4.2 nomod jumps**](https://github.com/arijanus/arijansu_osu_skins/raw/main/-%20arijansu%20v4.2%20nomod%20jumps.osk)
+## [**- arijansu v4.2 nomod jumps😳**](https://github.com/arijanus/arijansu_osu_skins/raw/main/-%20arijansu%20v4.2%20nomod%20jumps.osk)
 ![screenshot117](https://user-images.githubusercontent.com/84270330/120231598-6575db80-c25a-11eb-8049-da133f1e4fc9.jpg)
