@@ -1,6 +1,8 @@
 ## [arijansu](https://old.ppy.sh/u/arijansu) osu!skins
-## [**- BurakkuShipu+arijansu edit**](https://github.com/arijanus/arijansu_osu_skins/raw/main/-%20BurakkuShipu%2Barijansu%20edit.osk)![screenshot121](https://user-images.githubusercontent.com/84270330/120844139-a67e3080-c577-11eb-83a4-8ae1a10178b4.jpg)
-## [**- arijansu v4.2 nomod jumps😳**](https://github.com/arijanus/arijansu_osu_skins/raw/main/-%20arijansu%20v4.2%20nomod%20jumps.osk)![screenshot117](https://user-images.githubusercontent.com/84270330/120231598-6575db80-c25a-11eb-8049-da133f1e4fc9.jpg)
+## [**- BurakkuShipu+arijansu edit**](https://github.com/arijanus/arijansu_osu_skins/raw/main/-%20BurakkuShipu%2Barijansu%20edit.osk)
+![screenshot121](https://user-images.githubusercontent.com/84270330/120844139-a67e3080-c577-11eb-83a4-8ae1a10178b4.jpg)
+## [**- arijansu v4.2 nomod jumps😳**](https://github.com/arijanus/arijansu_osu_skins/raw/main/-%20arijansu%20v4.2%20nomod%20jumps.osk)
+![screenshot117](https://user-images.githubusercontent.com/84270330/120231598-6575db80-c25a-11eb-8049-da133f1e4fc9.jpg)
 ## [**- arijansu v4.2 nomod jumps😳**](https://github.com/arijanus/arijansu_osu_skins/raw/main/-%20arijansu%20v4.2%20nomod%20jumps.osk)
 ![screenshot117](https://user-images.githubusercontent.com/84270330/120231598-6575db80-c25a-11eb-8049-da133f1e4fc9.jpg)
 ## [**- arijansu v4.1.1 dthd**](https://github.com/arijanus/arijansu_osu_skins/raw/main/-%20arijansu%20v4.1.1%20%2BDTHD.osk)
