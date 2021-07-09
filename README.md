@@ -1,4 +1,4 @@
-## [arijansu](https://old.ppy.sh/u/arijansu) osu!skins | *I don't own or made these elements for the skins. I mash them up.*
+## [arijansu](https://old.ppy.sh/u/arijansu) osu!std skins | *I don't own or made these elements for the skins. I mash them up.*
 ## [**- BurakkuShipu+arijansu edit**](https://github.com/arijanus/arijansu_osu_skins/raw/main/-%20BurakkuShipu%2Barijansu%20edit.osk)
 ![screenshot121](https://user-images.githubusercontent.com/84270330/120844139-a67e3080-c577-11eb-83a4-8ae1a10178b4.jpg)
 ## [**- arijansu v4.2 nomod jumps😳**](https://github.com/arijanus/arijansu_osu_skins/raw/main/-%20arijansu%20v4.2%20nomod%20jumps.osk)
